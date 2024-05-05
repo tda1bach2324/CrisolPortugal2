@@ -37,6 +37,8 @@ section.izquierda{
 .derecha{
     /* background-color: red; */
     padding: 2%;
+    display:flex;
+    flex-flow:row;
     align-items:center;
 }
 
