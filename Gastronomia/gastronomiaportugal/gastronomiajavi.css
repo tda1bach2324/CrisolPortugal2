@@ -37,6 +37,7 @@ section.izquierda{
 .derecha{
     /* background-color: red; */
     padding: 2%;
+    align-items:center;
 }
 
 .bacalaoart{
@@ -82,7 +83,7 @@ aside img{
     border-radius: 20px;
     border-color: #012941;
     background-color: #93d4d5;
-    align-items:center;
+
 }
 
 footer {
